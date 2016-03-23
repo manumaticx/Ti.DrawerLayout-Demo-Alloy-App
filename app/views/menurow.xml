@@ -1,8 +1,0 @@
-<Alloy>
-	<TableViewRow height="60" width="fill">
-		<View>
-			<Label id="icon" />
-			<Label id="title"/>
-		</View>
-	</TableViewRow>
-</Alloy>
